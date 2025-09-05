@@ -1,19 +1,19 @@
-# 👋 Olá, eu sou a Ludmila Carvalho  
+# 👋 Hi, I'm Ludmila Carvalho  
 
-🎯 **Analista de Dados | Cientista de Dados em formação | Desenvolvedora Python**  
-🔹 Experiência em **Gestão de Projetos e Comunicação**, aplicando agora em **IA, Machine Learning e Desenvolvimento Web**.  
-
----
-
-## ✨ Sobre mim
-- 📊 Explorando **Data Science & Machine Learning** (pandas, numpy, scikit-learn, keras)  
-- 🌍 Aberta a **oportunidades remotas**  
-- 💻 Projetos em **Python, Django, Flask e Cloud**  
-- 🧩 Criatividade + Análise de Dados = soluções com propósito  
+🎯 **Data Analyst | Aspiring Data Scientist | Python Developer**  
+🔹 Background in **Project Management & Communication**, now applying skills in **AI, Machine Learning, and Web Development**.  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## ✨ About Me
+- 📊 Exploring **Data Science & Machine Learning** (pandas, numpy, scikit-learn, keras)  
+- 🌍 Open to **remote opportunities**  
+- 💻 Building projects in **Python, Django, Flask & Cloud**  
+- 🧩 Creativity + Data Analysis = meaningful solutions  
+
+---
+
+## 🚀 Technologies & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -32,9 +32,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-carvalho-alc)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ludmilaalc)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ludmilaalc)  
-
----
